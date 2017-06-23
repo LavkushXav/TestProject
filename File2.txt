@@ -1,7 +1,2 @@
 This is first line in file 2.
-<<<<<<< Updated upstream
 Fixed live issue.
-
-=======
-Added new line in File2.
->>>>>>> Stashed changes
