@@ -3,3 +3,4 @@ Fixed live issue.
 Added new line in File2.
 Added line in file 2 by xav terminal.
 Added new line in file 2 by xav terminal.
+Line1 xav terminal
